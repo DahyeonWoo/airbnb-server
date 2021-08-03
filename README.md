@@ -69,7 +69,7 @@
 - AqueryTool Password : m87261
 - 본 ERD 설계는 실제 에어비앤비와는 무관합니다
 
-<img src="./images/db.png"/>
+<img src="./.images/db.png"/>
 
 ### :exclamation: Role
 - :page_with_curl: ERD 설계
@@ -86,4 +86,4 @@
 - :earth_americas: node-Geocoder
 
 ### :clipboard: Architecture
-<img src="./images/architecture.png"/>
+<img src="./.images/architecture.png"/>
