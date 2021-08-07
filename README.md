@@ -68,8 +68,10 @@
 - AqueryTool Link: URL : https://aquerytool.com/aquerymain/index/?rurl=f17ec6fa-037e-4891-bb83-01f380b936f5&
 - AqueryTool Password : m87261
 - 본 ERD 설계는 실제 에어비앤비와는 무관합니다
-
 <img src="./.images/db.png"/>
+
+### :computer: API 개발
+- API List Link : https://docs.google.com/spreadsheets/d/e/2PACX-1vSqfvTmUYXq0pSixQ-sConHUhJv21LI_1u-yWSmwc_lJGF1i3EZuF2D4bpXotoskg/pubhtml
 
 ### :exclamation: Role
 - :page_with_curl: ERD 설계
@@ -84,6 +86,12 @@
 ### :rocket: 사용한 외부 API
 - :mailbox: nodeMailer
 - :earth_americas: node-Geocoder
-
+- :phone: NCP Simple & Easy Notification Service
+- :seedling: Naver Developers 네이버 로그인
+- :sparkles: Kakao Developers 카카오 로그인
+- :globe_with_meridians: Google Developers 구글 로그인
 ### :clipboard: Architecture
 <img src="./.images/architecture.png"/>
+
+### :memo: Git Logs
+<img src="./.images/git.png"/>
