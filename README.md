@@ -84,8 +84,8 @@
   - 이메일 로그인 로직 수정 : DB의 salt 값 활용
 
 ### :rocket: 사용한 외부 API
-- :mailbox: nodeMailer
 - :earth_americas: node-Geocoder
+- :mailbox: nodeMailer
 - :phone: NCP Simple & Easy Notification Service
 - :seedling: Naver Developers 네이버 로그인
 - :sparkles: Kakao Developers 카카오 로그인
