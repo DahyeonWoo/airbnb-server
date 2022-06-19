@@ -1,5 +1,5 @@
-# :star2: 13th airbnb project
-- 소프트스퀘어드 6 ~ 8주차 모의외주 프로젝트로 클라이언트 1명, 서버 2명이 개발을 진행했습니다.
+# :star2: airbnb project
+- 클라이언트 1명, 서버 2명이 개발을 진행했습니다.
 
 ### :file_folder: 디렉토리 구조
 ```bash
